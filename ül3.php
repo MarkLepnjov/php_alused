@@ -4,7 +4,11 @@
 Mark Lepnjov
 24.11.2020
 */
-
+/*
+ Ülesanne 3
+Mark Lepnjov
+24.11.2020
+*/
 $kulg1 = $_GET['t1'];
 $kulg2 = $_GET['t2'];
 $kulg3 = $_GET['t3'];
