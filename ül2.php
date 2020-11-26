@@ -1,6 +1,6 @@
 <?php
 /*
- Ülesanne 1
+ Ülesanne 2
 Mark Lepnjov
 24.11.2020
 */
