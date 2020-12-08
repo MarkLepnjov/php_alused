@@ -36,5 +36,5 @@ $VIN = array("1GKS1GKC8FR966658", "1FTEW1C87AK375821", "1G4GF5E30DF760067", "1FT
 "1N6AA0CJ1D57470", "WAUEG98E76A780908", "WAUAF78E96A920706", "1GT01XEG8FZ268942", "1FTEW1CW4AF371278", "JN1AZ4EH8DM531691", "WAUEKAFBXAN294295");
 echo count($autod).'<br>';
 echo count($VIN).'<br>';
-echo $autod['Audi'].'<br>';
+echo count($autod).'<br>';
 echo $autod['Toyota'].'<br>';
